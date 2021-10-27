@@ -80,6 +80,7 @@ public class TestingJunit {
 	public static void closeBrowser() {
 		
 		driver.close();
+		System.out.println("test566");
 	}
 	
 	
