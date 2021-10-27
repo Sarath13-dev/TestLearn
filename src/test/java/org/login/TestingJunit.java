@@ -80,7 +80,13 @@ public class TestingJunit {
 	public static void closeBrowser() {
 		
 		driver.close();
+		System.out.println("test1");
+		System.out.println("new feature");
+		System.out.println("added on Branc A");
 		System.out.println("test566");
+
+		
+
 	}
 	
 	
